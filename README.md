@@ -19,3 +19,10 @@ Datasets used for this project:
 03. Orders_Products_Prior
 04. Products
 05. Departments
+# Tools
+01. Pandas: for data analysis
+2. Numpy: for mathematical equations
+3. Seaborn: for data visualizations
+4. Matplotlib: for data visualizations
+5. SciPy: for mathematical equations
+6. 
