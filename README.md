@@ -8,10 +8,10 @@ As an analyst for Instacart, an online grocery platform, the objective is to der
 04. What types of customers are there and how do their behaviors differ?
 05. How often do customers return to Instacart?
 06. Are there differences in ordering habits based on a customer’s loyalty status?
-07. Are there differences in ordering habits based on a customer’s region?
-08.Is there a connection between age and family status in terms of ordering habits?
-What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
-What are the differences in ordering habits of different customer profiles?
+07. Are there differences in ordering habits based on a customer’s region?   
+08. Is there a connection between age and family status in terms of ordering habits?
+09. What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+10. What are the differences in ordering habits of different customer profiles?
 # Data
 Datasets used for this project:
 
