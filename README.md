@@ -14,9 +14,8 @@ As an analyst for Instacart, an online grocery platform, the objective is to der
 10. What are the differences in ordering habits of different customer profiles?
 # Data
 Datasets used for this project:
-
-Customers
-Orders
-Orders_Product_Prior
-Products
-Departments
+01. Customers
+02. Orders
+03. Orders_Products_Prior
+04. Products
+05. Departments
