@@ -4,9 +4,9 @@ As an analyst for Instacart, an online grocery platform, the objective is to der
 # Key Questions 
 01. Are there particular times during the day where customers spend more money?   
 02. How can Instacart simplify pricing? 
-Which products/departments are more popular than others?
-What types of customers are there and how do their behaviors differ?
-How often do customers return to Instacart?
+03. Which products/departments are more popular than others? 
+04. What types of customers are there and how do their behaviors differ?
+05. How often do customers return to Instacart?
 Are there differences in ordering habits based on a customer’s loyalty status?
 Are there differences in ordering habits based on a customer’s region?
 Is there a connection between age and family status in terms of ordering habits?
