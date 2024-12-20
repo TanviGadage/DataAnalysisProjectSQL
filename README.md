@@ -31,5 +31,6 @@ Datasets used for this project:
 3. Scripts: Jupyter notebooks containing coding for the analysis.
 4. Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
 5. Sent to Client: The final report presented in Excel.
-
+# Resourses
+Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
 
