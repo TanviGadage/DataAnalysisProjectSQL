@@ -20,9 +20,16 @@ Datasets used for this project:
 04. Products
 05. Departments
 # Tools
-01. Pandas: for data analysis
+01. Pandas: for data analysis.
 2. Numpy: for mathematical equations
 3. Seaborn: for data visualizations
 4. Matplotlib: for data visualizations
 5. SciPy: for mathematical equations
-6. 
+# Folders
+01. Project Management: Project brief.
+2. Data:(Data files not uploaded to GitHub due to size limitations.)
+3. Scripts: Jupyter notebooks containing coding for the analysis.
+4. Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
+5. Sent to Client: The final report presented in Excel.
+
+
