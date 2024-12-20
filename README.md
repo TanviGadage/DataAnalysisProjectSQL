@@ -17,6 +17,6 @@ Datasets used for this project:
 
 Customers
 Orders
-Orders_products_prior
+Orders_Product_Prior
 Products
 Departments
